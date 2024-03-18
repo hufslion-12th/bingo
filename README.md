@@ -7,7 +7,7 @@
 
 ## 1. issue 템플릿을 따라 나만의 issue를 생성 합니다.
 
-- 생성된 이슈 : [예시/김멋사](https://github.com/hufslion12th/BINGO/issues/1)
+- 생성된 이슈 : [예시/김멋사](https://github.com/hufslion-12th/BINGO/issues/1)
 
 - 빙고판 양식 :
 ![likelion-11th-bingo](https://user-images.githubusercontent.com/60145951/159075020-816d28ff-d829-4d05-821d-524f1cfac48f.png)
